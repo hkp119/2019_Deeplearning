@@ -24,7 +24,6 @@ def gradient(f, x):
         
         x[idx] = tmp_val # 값 복원
         it.iternext()   
-        print("..")
         
     return grad
 
