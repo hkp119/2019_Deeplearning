@@ -1,8 +1,6 @@
 import sys
 import numpy as np
 
-sys.setrecursionlimit(10000)
-
 def cost(x):
     '''
     cost function
